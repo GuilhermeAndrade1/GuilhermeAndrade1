@@ -6,4 +6,4 @@
 ### Meu nome é Guilherme, atualmente estou cursando o último periodo de sistemas de informação 👨‍💻 no Centro Universitário Una. Estou sempre em busca de oportunidades para aprimorar minhas qualificações e competencias, almejando uma excelente trajetória profissional
 -------
   
-![Status](https://github-readme-stats.vercel.app/api?username=guilhermeadrade1&show_icons=true)
+![Status](https://github-readme-stats.vercel.app/api?username=guilhermeandrade1&show_icons=true)
